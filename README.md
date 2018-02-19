@@ -1,7 +1,11 @@
 # wiproTest
 Wipro test for ios developer
 
-First install cocoapods and go to directory -> pod install 
+First install cocoapods
+
+clone project 
+
+go to directory wiproTest -> pod install 
 
 Open Wipro.xcworkspace not Wipro.xcodeproj otherwisr you will get mac-o-link error
 
